@@ -8,7 +8,7 @@ def plusMinus(arr):
     cont_plus = 0
     cont_nega = 0
     cont_zero = 0
-    for i in range(arr.__len__()):
+    for i in range(len(arr)):
         if arr[i] > 0:
             cont_plus += 1
         elif arr[i] < 0:
