@@ -1,12 +1,12 @@
-# A atividade consiste em conferir se duas palavras são Anagramas, caso não forem, existe algumas possibilidades:
+# Consiste em conferir se duas palavras são Anagramas, caso não forem, existe possibilidades:
 # 1) Se forem de tamanhos diferentes, retorna -1
 # 2) Se tiverem letras diferentes, deve informar a quantidade de letras diferentes na palavra
 # 3) Se forem iguais, retorna 0
 # função recebe como parâmetro duas listas e deve retornar um array
 
-def getMinimumDifference(a, b):
+def getMinimumDifference(list_words1, list_words2):
     count = []
-    for word1, word2 in zip(a, b):
+    for word1, word2 in zip(list_words1, list_words2):
         word1 = list(word1)
         word2 = list(word2)
         if len(word1) != len(word2):

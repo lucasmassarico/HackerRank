@@ -1,15 +1,10 @@
-#
-# Complete the 'miniMaxSum' function below.
-#
-# The function accepts INTEGER_ARRAY arr as parameter.
-#
-
+# Given array, find the min and max values that can be calculated by summing exactly four of the five integers
 def miniMaxSum(arr):
     aux = sum(arr)
     print(aux - max(arr), aux - min(arr))
 
 
 if __name__ == '__main__':
-    arr = list(map(int, input().rstrip().split()))
+    ar = list(map(int, input().rstrip().split()))
 
-    miniMaxSum(arr)
+    miniMaxSum(ar)

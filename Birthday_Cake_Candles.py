@@ -1,3 +1,4 @@
+# Receive array with Height of Candles and return count how many candles are tallest.
 def birthdayCakeCandles(candles):
     return candles.count(max(candles))
 

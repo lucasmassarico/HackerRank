@@ -1,9 +1,6 @@
-#
-# Complete the 'plusMinus' function below.
-#
-# The function accepts INTEGER_ARRAY arr as parameter.
-#
-
+# Given an array of integers, calculate the ratios of its elements that are positive, negative, and zero.
+# Print the decimal value of each fraction on a new line with  places after the decimal.
+# n = 5 / a/y / b/y / c/y
 def plusMinus(arr):
     cont_plus = 0
     cont_nega = 0
@@ -23,6 +20,6 @@ def plusMinus(arr):
 if __name__ == '__main__':
     n = int(input().strip())
 
-    arr = list(map(int, input().rstrip().split()))
+    ar = list(map(int, input().rstrip().split()))
 
-    plusMinus(arr)
+    plusMinus(ar)
