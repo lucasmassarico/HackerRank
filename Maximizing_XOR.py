@@ -5,18 +5,17 @@
 # 11 ^ 12 = 7 // Max Value
 # 12 ^ 12 = 0
 
-def maximizingXor(l, r):
-    xor = 0
-    for i in range(l, r + 1):
-        for j in range(i, r + 1):
+def maximizingXor(left, right):
+    result = 0
+    for i in range(left, right + 1):
+        for j in range(i, right + 1):
             aux = i ^ j
-            if aux > xor:
-                xor = aux
-    return xor
+            if aux > result:
+                result = aux
+    return result
 
 
 if __name__ == '__main__':
     l = int(input())
     r = int(input().strip())
-    result = maximizingXor(l, r)
-    print(result)
+    print(maximizingXor(l, r))
