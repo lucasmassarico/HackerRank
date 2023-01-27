@@ -7,7 +7,7 @@ def count_apples_and_oranges(start_house, end_house, tree_apple, tree_orange, ap
             count_apples += 1
     for interactions in oranges_pos:
         result = tree_orange + interactions
-        if result >= end_house:
+        if result <= end_house:
             count_oranges += 1
     print(count_apples)
     print(count_oranges)
