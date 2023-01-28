@@ -1,13 +1,11 @@
 def count_apples_and_oranges(start_house, end_house, tree_apple, tree_orange, apples_pos, oranges_pos):
     count_apples = 0
     count_oranges = 0
-    for interactions in apples_pos:
-        result = tree_apple + interactions
-        if result >= start_house:
+    for apple in apples_pos:
+        if start_house <= tree_apple + apple <= end_house:
             count_apples += 1
-    for interactions in oranges_pos:
-        result = tree_orange + interactions
-        if result <= end_house:
+    for orange in oranges_pos:
+        if start_house <= tree_orange + orange <= end_house:
             count_oranges += 1
     print(count_apples)
     print(count_oranges)
