@@ -1,4 +1,4 @@
-#
+# https://www.hackerrank.com/challenges/maximizing-xor
 # Given two integers, l and r, find the maximal value of a xor b , written a ^(XOR) b,
 # where  and  satisfy the following condition:
 # 11 ^ 11 = 0

@@ -1,3 +1,4 @@
+#
 # The problem is related to counting the number of apples and oranges that fall within a range of a house
 def count_apples_and_oranges(start_house, end_house, tree_apple, tree_orange, apples_pos, oranges_pos):
     count_apples = 0

@@ -1,10 +1,11 @@
-def sum_xor(n):
+# https://www.hackerrank.com/challenges/three-month-preparation-kit-sum-vs-xor
+def sum_xor(num):
     # count the number of 0 bits in the binary representation of n
     count = 0
-    while n:
-        if n % 2 == 0:
+    while num:
+        if num % 2 == 0:
             count += 1
-        n //= 2
+        num //= 2
     return 2 ** count
 
 

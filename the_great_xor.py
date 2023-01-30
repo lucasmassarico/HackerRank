@@ -1,3 +1,4 @@
+# https://www.hackerrank.com/challenges/the-great-xor
 def the_great_xor(xor):
     count = 0
     for interactions in range(xor):

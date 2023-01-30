@@ -4,7 +4,7 @@
 # 3) Se forem iguais, retorna 0
 # função recebe como parâmetro duas listas e deve retornar um array
 
-def getMinimumDifference(list_words1, list_words2):
+def get_minimum_difference(list_words1, list_words2):
     count = []
     for word1, word2 in zip(list_words1, list_words2):
         word1 = list(word1)
@@ -38,5 +38,5 @@ if __name__ == '__main__':
         b_item = input()
         b.append(b_item)
 
-    result = getMinimumDifference(a, b)
+    result = get_minimum_difference(a, b)
     print(result)

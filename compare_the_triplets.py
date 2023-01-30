@@ -1,3 +1,4 @@
+# https://www.hackerrank.com/challenges/compare-the-triplets
 # Compare the triplets(x > y) and return array is [x, y] with Alice's score first and Bob's second.
 def compareTriplets(rate_alice, rate_bob):
     cont_a = 0

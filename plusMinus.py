@@ -1,7 +1,8 @@
+# https://www.hackerrank.com/challenges/plus-minus
 # Given an array of integers, calculate the ratios of its elements that are positive, negative, and zero.
 # Print the decimal value of each fraction on a new line with  places after the decimal.
 # n = 5 / a/y / b/y / c/y
-def plusMinus(arr):
+def plus_minus(arr):
     cont_plus = 0
     cont_nega = 0
     cont_zero = 0
@@ -22,4 +23,4 @@ if __name__ == '__main__':
 
     ar = list(map(int, input().rstrip().split()))
 
-    plusMinus(ar)
+    plus_minus(ar)

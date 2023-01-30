@@ -1,5 +1,6 @@
+# https://www.hackerrank.com/challenges/diagonal-difference
 # Given a square matrix, calculate the absolute difference between the sums of its diagonals.
-def diagonalDifference(arr):
+def diagonal_difference(arr):
     d1 = 0
     d2 = 0
     for i in range(arr.__len__()):
@@ -14,5 +15,5 @@ if __name__ == '__main__':
     ar = []
     for _ in range(n):
         ar.append(list(map(int, input().rstrip().split())))
-    result = diagonalDifference(ar)
+    result = diagonal_difference(ar)
     print(result)

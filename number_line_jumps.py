@@ -6,7 +6,6 @@ def kangaroo(pos1, speed1, pos2, speed2):
     steps1 = (pos2 - pos1) / (speed1 - speed2)
     if steps1 < 0 or steps1 % 1 != 0:
         return "NO"
-
     return "YES"
 
 

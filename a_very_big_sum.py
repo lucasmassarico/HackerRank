@@ -1,5 +1,6 @@
+# https://www.hackerrank.com/challenges/a-very-big-sum?isFullScreen=true
 # It must return the sum of all array elements.
-def aVeryBigSum(arr):
+def very_big_sum(arr):
     return sum(arr)
 
 
@@ -8,6 +9,6 @@ if __name__ == '__main__':
 
     ar = list(map(int, input().rstrip().split()))
 
-    result = aVeryBigSum(ar)
+    result = very_big_sum(ar)
 
     print(result)

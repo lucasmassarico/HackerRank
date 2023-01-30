@@ -1,4 +1,4 @@
-def minimalOperations(lista):
+def minimal_operations(lista):
     count = []
     for word in lista:
         word = list(word)
@@ -17,5 +17,5 @@ if __name__ == '__main__':
     lista = []
     for _ in range(n):
         lista.append(input(""))
-    result = minimalOperations(lista)
+    result = minimal_operations(lista)
     print(result)

@@ -1,8 +1,9 @@
 from datetime import datetime
 
 
+# https://www.hackerrank.com/challenges/time-conversion
 # Given a time in 12-hour AM/PM format, convert it to military (24-hour) time.
-def time_Conversion(hour):
+def time_conversion(hour):
     format_data_12 = "%I:%M:%S%p"
     date = datetime.strptime(hour, format_data_12)
     format_data_24 = "%H:%M:%S"
@@ -11,5 +12,5 @@ def time_Conversion(hour):
 
 if __name__ == '__main__':
     s = input()
-    result = time_Conversion(s)
+    result = time_conversion(s)
     print(result)

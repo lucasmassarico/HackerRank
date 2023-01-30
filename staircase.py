@@ -1,3 +1,4 @@
+# https://www.hackerrank.com/challenges/staircase/problem
 # Create staircase with number
 def staircase(number):
     # range precisa começar em 1
