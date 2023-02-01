@@ -1,6 +1,6 @@
 # HackerRank Prepare ![Progress](https://img.shields.io/badge/progress-23%25-orange.svg)
 
-Preparation by HackerRank topics (Solved in Python)\
+Preparation by HackerRank topics (Solved in Python)
 
 
 
@@ -9,7 +9,7 @@ Preparation by HackerRank topics (Solved in Python)\
 - [Warmup](#warmup)
 - [Implementation](#implementation)
 - [Strings](#strings)
-- [Sortings](#sortings)
+- [Sorting](#sorting)
 - [Search](#search)
 - [Graph Theory](#graph-theory)
 - [Greedy](#greedy)
@@ -125,21 +125,69 @@ Preparation by HackerRank topics (Solved in Python)\
 | [top](#table-of-contents) |                   | [Two Strings](Strings/two_strings.py)                           |    Easy    |
 | [top](#table-of-contents) |                   | [Weighted Uniform Strings](Strings/weighted_uniform_strings.py) |    Easy    |
 
+## Sorting
 
-
-
-
-
-## Sortings
+|                           |      Status       | Exercise                                                                            | Difficulty |
+|---------------------------|:-----------------:|-------------------------------------------------------------------------------------|:----------:|
+| [top](#table-of-contents) |                   | [Big Sorting](sorting/big_sorting.py)                                               |    Easy    |
+| [top](#table-of-contents) |                   | [Closest Numbers](sorting/closest_numbers.py)                                       |    Easy    |
+| [top](#table-of-contents) |                   | [Correctness and the Loop Invariant](sorting/correctness_and_the_loop_invariant.py) |    Easy    |
+| [top](#table-of-contents) |                   | [Counting Sort 1](sorting/counting_sort_1.py)                                       |    Easy    |
+| [top](#table-of-contents) |                   | [Counting Sort 2](sorting/counting_sort_2.py)                                       |    Easy    |
+| [top](#table-of-contents) |                   | [Find the Median](sorting/find_the_median.py)                                       |    Easy    |
+| [top](#table-of-contents) |                   | [Insertion Sort - Part 1](sorting/insertion_sort_part_1.py)                         |    Easy    |
+| [top](#table-of-contents) |                   | [Insertion Sort - Part 2](sorting/insertion_sort_part_2.py)                         |    Easy    |
+| [top](#table-of-contents) |                   | [Intro to Tutorial Challenges](sorting/intro_to_tutorial_challenges.py)             |    Easy    |
+| [top](#table-of-contents) |                   | [Quicksort 1 - Partition](sorting/quicksort_1_partition.py)                         |    Easy    |
+| [top](#table-of-contents) |                   | [Running Time of Algorithms](sorting/running_time_of_algorithms.py)                 |    Easy    |
 
 ## Search
 
+|                           |      Status       | Exercise                                           | Difficulty |
+|---------------------------|:-----------------:|----------------------------------------------------|:----------:|
+| [top](#table-of-contents) |                   | [Ice Cream Parlor](search/ice_cream_parlor.py)     |    Easy    |
+| [top](#table-of-contents) |                   | [Missing Numbers](search/missing_numbers.py)       |    Easy    |
+| [top](#table-of-contents) |                   | [Sherlock and Array](search/sherlock_and_array.py) |    Easy    |
+
 ## Graph Theory
+
+|                           |      Status       | Exercise                                                                                          |  Difficulty  |
+|---------------------------|:-----------------:|---------------------------------------------------------------------------------------------------|:------------:|
+| [top](#table-of-contents) |                   | [Breadth First Search: Shortest Reach](graph_theory/breadth_first_search_shortest_reach.py)       |    Medium    |
+| [top](#table-of-contents) |                   | [Clique](graph_theory/clique.py)                                                                  |    Medium    |
+| [top](#table-of-contents) |                   | [Crab Graphs](graph_theory/crab_graphs.py)                                                        |    Medium    |
+| [top](#table-of-contents) |                   | [Even Tree](graph_theory/even_tree.py)                                                            |    Medium    |
+| [top](#table-of-contents) |                   | [Jack goes to Rapture](graph_theory/jack_goes_to_rapture.py)                                      |    Medium    |
+| [top](#table-of-contents) |                   | [Jeanie's Route](graph_theory/jeanies_route.py)                                                   |    Medium    |
+| [top](#table-of-contents) |                   | [Journey to the Moon](graph_theory/journey_to_the_moon.py)                                        |    Medium    |
+| [top](#table-of-contents) |                   | [Kruskal (MST): Really Special Subtree](graph_theory/kruskal_mst_really_special_subtree.py)       |    Medium    |
+| [top](#table-of-contents) |                   | [Minimum Penalty Path](graph_theory/minimum_penalty_path.py)                                      |    Medium    |
+| [top](#table-of-contents) |                   | [Prim's (MST): Special Subtree](graph_theory/prims_mst_special_subtree.py)                        |    Medium    |
+| [top](#table-of-contents) |                   | [Roads and Libraries](graph_theory/roads_and_libraries.py)                                        |    Medium    |
+| [top](#table-of-contents) |                   | [Roads in HackerLand](graph_theory/roads_in_hackerland.py)                                        |    Medium    |
+| [top](#table-of-contents) |                   | [Rust & Murderer](graph_theory/rust_e_murderer.py)                                                |    Medium    |
+| [top](#table-of-contents) |                   | [Snakes and Ladders: The Quickest Way Up](graph_theory/snakes_and_ladders_the_quickest_way_up.py) |    Medium    |
+| [top](#table-of-contents) |                   | [Synchronous Shopping](graph_theory/synchronous_shopping.py)                                      |    Medium    |
+| [top](#table-of-contents) |                   | [The Story of a Tree](graph_theory/the_story_of_a_tree.py)                                        |    Medium    |
 
 ## Greedy
 
-## Dynamic Programming
+|                           |      Status       | Exercise                                                                                     | Difficulty |
+|---------------------------|:-----------------:|----------------------------------------------------------------------------------------------|:----------:|
+| [top](#table-of-contents) |                   | [Beautiful Pairs](greedy/beautiful_pairs.py)                                                 |    Easy    |
+| [top](#table-of-contents) |                   | [Grid Challenge](greedy/grid_challenge.py)                                                   |    Easy    |
+| [top](#table-of-contents) |                   | [Jim and the Orders](greedy/jim_and_the_orders.py)                                           |    Easy    |
+| [top](#table-of-contents) |                   | [Largest Permutation](greedy/largest_permutation.py)                                         |    Easy    |
+| [top](#table-of-contents) |                   | [Luck Balance](greedy/luck_balance.py)                                                       |    Easy    |
+| [top](#table-of-contents) |                   | [Marc's Cakewalk](greedy/marcs_cakewalk.py)                                                  |    Easy    |
+| [top](#table-of-contents) |                   | [Mark and Toys](greedy/mark_and_toys.py)                                                     |    Easy    |
+| [top](#table-of-contents) |                   | [Maximum Perimeter Triangle](greedy/maximum_perimeter_triangle.py)                           |    Easy    |
+| [top](#table-of-contents) |                   | [Minimum Absolute Difference in an Array](greedy/minimum_absolute_difference_in_an_array.py) |    Easy    |
+| [top](#table-of-contents) |                   | [Permuting Two Arrays](greedy/permuting_two_arrays.py)                                       |    Easy    |
+| [top](#table-of-contents) |                   | [Priyanka and Toys](greedy/priyanka_and_toys.py)                                             |    Easy    |
+| [top](#table-of-contents) |                   | [Sherlock and The Beast](greedy/sherlock_and_the_beast.py)                                   |    Easy    |
 
+## Dynamic Programming
 ## Constructive Algorithms
 
 ## Bit Manipulation
@@ -151,15 +199,33 @@ Preparation by HackerRank topics (Solved in Python)\
 | [top](#table-of-contents) | :heavy_check_mark: | [Maximizing XOR](Bit_manipulation/Maximizing_XOR.py) |    Easy    |
 | [top](#table-of-contents) | :heavy_check_mark: | [Sum VS XOR](Bit_manipulation/Sum_xor.py)            |    Easy    |
 | [top](#table-of-contents) |        :x:         | [The Great XOR](Bit_manipulation/the_great_xor.py)   |   Medium   |
+| [top](#table-of-contents) |                    | [Flipping bits](Bit_manipulation/flipping_bits.py)   |   Medium   |
 
 
 ## Recursion
 
 ## Game Theory
 
+|                           | Status | Exercise                                                            | Difficulty |
+|---------------------------|:------:|---------------------------------------------------------------------|:----------:|
+| [top](#table-of-contents) |        | [A Chessboard Game](game_theory/a_chessboard_game.py)               |    Easy    |
+| [top](#table-of-contents) |        | [Games of Stones](game_theory/game_of_stones.py)                    |    Easy    |
+| [top](#table-of-contents) |        | [Introduction to Nim Game](game_theory/introduction_to_nim_game.py) |    Easy    |
+| [top](#table-of-contents) |        | [Misère Nim](game_theory/misere_nim.py)                             |    Easy    |
+| [top](#table-of-contents) |        | [Nimble Game](game_theory/nimble_game.py)                           |    Easy    |
+| [top](#table-of-contents) |        | [Poker Nim](game_theory/poker_nim.py)                               |    Easy    |
+| [top](#table-of-contents) |        | [Tower Breakers](game_theory/tower_breakers.py)                     |    Easy    |
+
+
 ## NP Complete
 
 ## Debugging
+
+|                           | Status | Exercise                                  | Difficulty |
+|---------------------------|:------:|-------------------------------------------|:----------:|
+| [top](#table-of-contents) |        | [Smart Number](debugging/smart_number.py) |    Easy    |
+| [top](#table-of-contents) |        | [XOR Strings](debugging/xor_strings.py)   |    Easy    |
+
 
 ## Extras
 
