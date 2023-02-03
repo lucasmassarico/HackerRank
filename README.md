@@ -54,6 +54,7 @@ Preparation by HackerRank topics (Solved in Python)
 | [top](#table-of-contents) | :heavy_check_mark: | [Breaking The Records](Implementation/breaking_the_records.py)                 |    Easy    |
 | [top](#table-of-contents) | :heavy_check_mark: | [Grading Students](Implementation/grading_students.py)                         |    Easy    |
 | [top](#table-of-contents) | :heavy_check_mark: | [Number Line Jumps](Implementation/number_line_jumps.py)                       |    Easy    |
+| [top](#table-of-contents) | :heavy_check_mark: | [Subarray Division](Implementation/subarray_division.py)                       |    Easy    |
 | [top](#table-of-contents) |                    | [ACM ICPC Team](Implementation/acm_icpc_team.py)                               |    Easy    |
 | [top](#table-of-contents) |                    | [Angry Professor](Implementation/angry_professor.py)                           |    Easy    |
 | [top](#table-of-contents) |                    | [Append and Delete](Implementation/append_and_delete.py)                       |    Easy    |
@@ -93,7 +94,6 @@ Preparation by HackerRank topics (Solved in Python)
 | [top](#table-of-contents) |                    | [Service Lane](Implementation/service_lane.py)                                 |    Easy    |
 | [top](#table-of-contents) |                    | [Sherlock and Squares](Implementation/sherlock_and_squares.py)                 |    Easy    |
 | [top](#table-of-contents) |                    | [Strange Counter](Implementation/strange_counter.py)                           |    Easy    |
-| [top](#table-of-contents) |                    | [Subarray Division](Implementation/subarray_division.py)                       |    Easy    |
 | [top](#table-of-contents) |                    | [Tam and B'day](Implementation/tam_and_bday.py)                                |    Easy    |
 | [top](#table-of-contents) |                    | [The Hurdle Race](Implementation/the_hurdle_race.py)                           |    Easy    |
 | [top](#table-of-contents) |                    | [Utopian Tree](Implementation/utopian_tree.py)                                 |    Easy    |
