@@ -1,4 +1,4 @@
-# HackerRank Prepare ![Progress](https://img.shields.io/badge/progress-30%25-orange.svg)
+# HackerRank Prepare ![Progress](https://img.shields.io/badge/progress-39%25-orange.svg)
 
 Preparation by HackerRank topics (Solved in Python)
 
