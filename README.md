@@ -1,4 +1,4 @@
-# HackerRank Prepare ![Progress](https://img.shields.io/badge/progress-47%25-orange.svg)
+# HackerRank Prepare ![Progress](https://img.shields.io/badge/progress-50%25-orange.svg)
 
 Preparation by HackerRank topics (Solved in Python)
 
@@ -47,7 +47,7 @@ Preparation by HackerRank topics (Solved in Python)
 
 ## Implementation
 
-|                           |  Status: 11 / 49   | Exercise                                                                       | Difficulty |
+|                           |  Status: 12 / 49   | Exercise                                                                       | Difficulty |
 |:-------------------------:|:------------------:|--------------------------------------------------------------------------------|:----------:|
 | [top](#table-of-contents) | :heavy_check_mark: | [Apple and Orange](Implementation/apple_orange.py)                             |    Easy    |
 | [top](#table-of-contents) | :heavy_check_mark: | [Between Two Sets](Implementation/between_two_sets.py)                         |    Easy    |
@@ -55,6 +55,7 @@ Preparation by HackerRank topics (Solved in Python)
 | [top](#table-of-contents) | :heavy_check_mark: | [Breaking The Records](Implementation/breaking_the_records.py)                 |    Easy    |
 | [top](#table-of-contents) | :heavy_check_mark: | [Day of the Programmer](Implementation/day_of_the_programmer.py)               |    Easy    |
 | [top](#table-of-contents) | :heavy_check_mark: | [Divisible Sum Pairs](Implementation/divisible_sum_pairs.py)                   |    Easy    |
+| [top](#table-of-contents) | :heavy_check_mark: | [Drawing Book](Implementation/drawing_book.py)                                 |    Easy    |
 | [top](#table-of-contents) | :heavy_check_mark: | [Grading Students](Implementation/grading_students.py)                         |    Easy    |
 | [top](#table-of-contents) | :heavy_check_mark: | [Migratory Birds](Implementation/migratory_birds.py)                           |    Easy    |
 | [top](#table-of-contents) | :heavy_check_mark: | [Number Line Jumps](Implementation/number_line_jumps.py)                       |    Easy    |
@@ -72,7 +73,6 @@ Preparation by HackerRank topics (Solved in Python)
 | [top](#table-of-contents) |                    | [Counting Valleys](Implementation/counting_valleys.py)                         |    Easy    |
 | [top](#table-of-contents) |                    | [Cut the sticks](Implementation/cut_the_sticks.py)                             |    Easy    |
 | [top](#table-of-contents) |                    | [Designer PDF Viewer](Implementation/designer_pdf_viewer.py)                   |    Easy    |
-| [top](#table-of-contents) |                    | [Drawing Book](Implementation/drawing_book.py)                                 |    Easy    |
 | [top](#table-of-contents) |                    | [Electronics Shop](Implementation/electronics_shop.py)                         |    Easy    |
 | [top](#table-of-contents) |                    | [Equalize the Array](Implementation/equalize_the_array.py)                     |    Easy    |
 | [top](#table-of-contents) |                    | [Fair Rations](Implementation/fair_rations.py)                                 |    Easy    |
