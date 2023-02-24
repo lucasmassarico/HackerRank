@@ -1,4 +1,4 @@
-# HackerRank Prepare ![Progress](https://img.shields.io/badge/progress-50%25-orange.svg)
+# HackerRank Prepare ![Progress](https://img.shields.io/badge/progress-18%25-orange.svg)
 
 Preparation by HackerRank topics (Solved in Python)
 
@@ -47,12 +47,13 @@ Preparation by HackerRank topics (Solved in Python)
 
 ## Implementation
 
-|                           |  Status: 12 / 49   | Exercise                                                                       | Difficulty |
+|                           |  Status: 13 / 49   | Exercise                                                                       | Difficulty |
 |:-------------------------:|:------------------:|--------------------------------------------------------------------------------|:----------:|
 | [top](#table-of-contents) | :heavy_check_mark: | [Apple and Orange](Implementation/apple_orange.py)                             |    Easy    |
 | [top](#table-of-contents) | :heavy_check_mark: | [Between Two Sets](Implementation/between_two_sets.py)                         |    Easy    |
 | [top](#table-of-contents) | :heavy_check_mark: | [Bill Division](Implementation/bill_division.py)                               |    Easy    |
 | [top](#table-of-contents) | :heavy_check_mark: | [Breaking The Records](Implementation/breaking_the_records.py)                 |    Easy    |
+| [top](#table-of-contents) | :heavy_check_mark: | [Counting Valleys](Implementation/counting_valleys.py)                         |    Easy    |
 | [top](#table-of-contents) | :heavy_check_mark: | [Day of the Programmer](Implementation/day_of_the_programmer.py)               |    Easy    |
 | [top](#table-of-contents) | :heavy_check_mark: | [Divisible Sum Pairs](Implementation/divisible_sum_pairs.py)                   |    Easy    |
 | [top](#table-of-contents) | :heavy_check_mark: | [Drawing Book](Implementation/drawing_book.py)                                 |    Easy    |
@@ -70,7 +71,6 @@ Preparation by HackerRank topics (Solved in Python)
 | [top](#table-of-contents) |                    | [Cavity Map](Implementation/cavity_map.py)                                     |    Easy    |
 | [top](#table-of-contents) |                    | [Chocolate Feast](Implementation/chocolate_feast.py)                           |    Easy    |
 | [top](#table-of-contents) |                    | [Circular Array Rotation](Implementation/circular_array_rotation.py)           |    Easy    |
-| [top](#table-of-contents) |                    | [Counting Valleys](Implementation/counting_valleys.py)                         |    Easy    |
 | [top](#table-of-contents) |                    | [Cut the sticks](Implementation/cut_the_sticks.py)                             |    Easy    |
 | [top](#table-of-contents) |                    | [Designer PDF Viewer](Implementation/designer_pdf_viewer.py)                   |    Easy    |
 | [top](#table-of-contents) |                    | [Electronics Shop](Implementation/electronics_shop.py)                         |    Easy    |
